@@ -1,0 +1,2 @@
+# jsTest
+javascript test collection
